@@ -15,5 +15,7 @@ Value Proposition Canvas and Persona Analysis are in the Elevator Pitch ppt / Ex
 
 Completed sections:
 Code: FINISHED
+
 Presentations: FINISHED
+
 Demo videos: WAITING FOR SERVER TO BE BACK UP
